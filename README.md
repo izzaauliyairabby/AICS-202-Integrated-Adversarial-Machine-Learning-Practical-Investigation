@@ -713,33 +713,24 @@ These limitations define the scope of the controlled laboratory environment.
 ```text
 AICS202-Adversarial-Machine-Learning/
 │
-├── README.md
+├README.md
 │
-├── notebooks/
-│   ├── AICS202_Lab01_Baseline_Threat_Model.ipynb
-│   ├── AICS202_Lab02_FGSM_Evasion.ipynb
-│   ├── AICS202_Lab03_Poisoning_Data_Integrity.ipynb
-│   └── AICS202_Lab04_Robustness_Defences.ipynb
+├
+│── AICS202_Lab01_Baseline_Threat_Model.ipynb
+│── AICS202_Lab02_FGSM_Evasion.ipynb
+│── AICS202_Lab03_Poisoning_Data_Integrity.ipynb
+│── AICS202_Lab04_Robustness_Defences.ipynb
 │
-├── results/
-│   ├── baseline_confusion_matrix.png
-│   ├── fgsm_robustness_curve.png
-│   ├── adversarial_examples.png
-│   ├── poisoning_accuracy_curve.png
-│   └── defensive_comparison.png
+├
+│── baseline_confusion_matrix.png
+│── fgsm_robustness_curve.png
+│── adversarial_examples.png
+│── poisoning_accuracy_curve.png
+│── defensive_comparison.png
 │
-├── reports/
-│   ├── AICS202_Lab01_Baseline_Report.pdf
-│   ├── AICS202_Lab02_FGSM_Report.pdf
-│   ├── AICS202_Lab03_Poisoning_Report.pdf
-│   ├── AICS202_Lab04_Defence_Report.pdf
-│   └── AICS202_Final_Report.pdf
+│── AICS202_Final_Report.pdf
 │
-├── documentation/
-│   ├── threat_model.md
-│   ├── dataset_integrity_checklist.md
-│   └── robustness_decision_memo.md
-│
+├
 └── requirements.txt
 ```
 
